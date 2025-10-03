@@ -50,7 +50,7 @@ export default function Footer() {
 
       {/* deuxière partie */}
 
-      <div className="lg:h-[300px] h-[740px] bg-black">
+      <div className="lg:h-[300px] h-[741px] bg-black">
         <div className="flex lg:flex-row flex-col text-white py-10">
           {/* sous première partie */}
 
