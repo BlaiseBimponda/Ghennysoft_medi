@@ -1,0 +1,21 @@
+@keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .bounce {
+            animation: bounce 1s infinite;
+        }
+
+@keyframes bounce {
+            50%, 100% { transform: translateY(10px); }
+            100% { transform: translateY(-10px); }
+        }
+
+        .image {
+            animation: bounce 1s infinite;
+        }
+
+    .color {
+        color: #00b894;
+    }
